@@ -1,6 +1,7 @@
 /****************************************************************************
  ∗ @file: AvlTree.java
- ∗ @description: This program implements . . .
+ ∗ @description: This program implements an AVL tree with methods to insert, remove, contains, find min, find max,
+                    balance, and rotate the tree to keep the height in check.
  ∗ @author: Aidan Broadhead
  ∗ @date: October 21, 2025
  ****************************************************************************/

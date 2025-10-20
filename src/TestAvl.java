@@ -1,6 +1,6 @@
 /****************************************************************************
  ∗ @file: TestAvl.java
- ∗ @description: This program implements . . .
+ ∗ @description: This program tests if the AVL tree is working correctly.
  ∗ @author: Aidan Broadhead
  ∗ @date: October 21, 2025
  ****************************************************************************/

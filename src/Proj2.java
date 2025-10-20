@@ -1,6 +1,7 @@
 /****************************************************************************
         ∗ @file: Proj2.java
-        ∗ @description: This program implements . . .
+        ∗ @description: This program implements the main driver that reads N lines from the CSV, creates the 4 trees,
+                            times their operations, and prints their results.
         ∗ @author: Aidan Broadhead
         ∗ @date: October 21, 2025
  ****************************************************************************/
