@@ -1,3 +1,10 @@
+/****************************************************************************
+ ∗ @file: TestAvl.java
+ ∗ @description: This program implements . . .
+ ∗ @author: Aidan Broadhead
+ ∗ @date: October 21, 2025
+ ****************************************************************************/
+
 public class TestAvl {
     // Test program
     public static void main( String [ ] args ) {
