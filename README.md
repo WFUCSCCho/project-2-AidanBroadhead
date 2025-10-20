@@ -84,7 +84,8 @@ BST vs. AVL Tree running rate (insertion):
 (insert here)
 
 <img width="601" height="369" alt="CSCGraph3a" src="https://github.com/user-attachments/assets/12e4cec6-d5a0-435c-b3b7-41d434f95c33" />
-<img width="598" height="368" alt="CSCGraph3b" src="https://github.com/user-attachments/assets/0b2f9053-e563-4b93-9264-6b8bce66649c" />
+<img width="597" height="366" alt="CSCGraph3b" src="https://github.com/user-attachments/assets/e4e70ffa-8516-4751-a39f-2126727a5016" />
+
 
 
 BST vs. AVL Tree running rate (search):
